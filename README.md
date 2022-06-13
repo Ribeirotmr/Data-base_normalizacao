@@ -12,6 +12,14 @@
 
 *A principal finalidade do processo de normalização é eliminar as anomalias de inserção, atualização e exclusão. A anomalia ocorre quando não há forma de se cadastrar alguma determinada informação sem que alguma outra informação também seja diretamente cadastrada. Por exemplo, imagine que você tenha uma tabela `funcionário` com os seguintes dados: `codigo`, `nome`, `projeto`, onde a coluna `projeto` corresponde ao nome do projeto no qual um funcionário foi alocado. E então você tem os seguintes dados:*
 
+|codigo| | nome |  | projeto |
+|------| |------|  |---------|
+|   1  | |Pedro |  | Vendas  |
+|   2  | |Maria |  | Vendas  |
+|   3	 | |Carlos|	 |Cadastro de clientes|
+
+
+
 
 
 
