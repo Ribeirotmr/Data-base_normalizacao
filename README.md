@@ -10,8 +10,6 @@ Turma: CC2M
 
 Professor: [Abrantes Araujo](https://github.com/abrantesasf)
 
-## Tive com base um projeto conceitual: 
- ![image](https://user-images.githubusercontent.com/103537027/174203914-d4b17636-51a5-4481-8848-7468cbeb5902.png)
 
 
 ### Esse projeto de banco de dados tem como base transforma um modelo conceitual em modelo lógico por meio da primeira regra de normaliozação de banco de dados. Esse trabalho tive a ajuda de colegas de sala:
