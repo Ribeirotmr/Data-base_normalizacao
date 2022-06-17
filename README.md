@@ -1,7 +1,22 @@
-# Trabalho de designer e desenvolvimento de banco de dados
+# Trabalho em grupo de designer e desenvolvimento de banco de dados
+
+Aluno: [Thierry Martins Ribeiro](https://github.com/Ribeirotmr)
 
 
-### Esse projeto de banco de dados tem como base transforma um modelo conceitual em modelo lógico por meio da primeira regra de normaliozação de banco de dados. 
+
+Turma: CC2M
+
+
+
+Professor: [Abrantes Araujo](https://github.com/abrantesasf)
+
+
+### Esse projeto de banco de dados tem como base transforma um modelo conceitual em modelo lógico por meio da primeira regra de normaliozação de banco de dados. Esse trabalho tive a ajuda de colegas de sala:
+
+- [Hygor Oliveira Pancieri](https://github.com/HPancieri)
+- [Pedro Calezane Lyra](https://github.com/PedroLyra22)
+- [ecilia de Jesus Barros](https://github.com/CissaJB)
+- Hugo Araujo Corona
 
 # O que é o processo de normalização de banco de dados ? 
 
